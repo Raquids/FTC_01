@@ -134,7 +134,7 @@ df1 = pre_processing(df1)
 
 # niching all sidebars together
 with st.sidebar.container():
-    image = Image.open('assets\indiani_banani.png')
+    image = Image.open('assets/indiani_banani.png')
     st.sidebar.image(image, use_column_width=True)
     
         
