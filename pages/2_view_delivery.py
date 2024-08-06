@@ -123,7 +123,7 @@ def pre_processing (df1):
 # ==================================
 
 # importing dataset
-df = pd.read_csv('datasets\\food-delivery-dataset\\train.csv')
+df = pd.read_csv('datasets/food-delivery-dataset/train.csv')
 
 df1 = df.copy()
 
