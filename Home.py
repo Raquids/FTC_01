@@ -9,7 +9,7 @@ st.set_page_config(
 
 # Sidebar Setup
 # image_path = r'C:\Users\jgabr\Desktop\repos\cds\FTC\assets\indiani_banani.png'
-image = Image.open('assets\indiani_banani.png')
+image = Image.open('assets/indiani_banani.png')
 st.sidebar.image(image, width=120)
 
 st.sidebar.markdown( '# Cury Company' )
