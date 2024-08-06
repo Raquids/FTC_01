@@ -3,7 +3,7 @@ from PIL import Image
 
 # Home page Setup
 st.set_page_config(
-    page_title = 'Page_title',
+    page_title = 'Curry Company Dashboard',
     page_icon = '🐑'
    )
 
